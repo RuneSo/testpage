@@ -1,1 +1,1 @@
-alert("Javascript kjører!")
+alert("Javascript i JStest.js kjører!")
